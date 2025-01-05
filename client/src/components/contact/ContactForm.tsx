@@ -45,7 +45,10 @@ const ContactForm = () => {
 							className="pl-2 pt-2 pb-44 pr-72 border border-gray-500 bg-transparent"
 						/>
 					</form>
+          <button className="py-2 px-36 bg-black mt-10 rounded-xl text-white">Just Send</button>
 				</div>
+
+				
 			</form>
 		</div>
 	);
