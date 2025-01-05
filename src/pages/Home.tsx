@@ -1,9 +1,15 @@
-import React from 'react'
+import Hero from "../components/Home/Hero";
+import Info from "../components/Home/Info";
+import Services from "../components/Home/Services";
 
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <section>
+      <Hero />
+      <Services />
+      <Info/>
+    </section>
+  );
+};
 
-export default Home
+export default Home;
