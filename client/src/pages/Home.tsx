@@ -1,6 +1,6 @@
-import Hero from "../components/Home/Hero";
-import Info from "../components/Home/Info";
-import Services from "../components/Home/Services";
+import Hero from "../components/home/Hero";
+import Info from "../components/home/Info";
+import Services from "../components/home/Services";
 
 const Home = () => {
   return (
